@@ -2172,12 +2172,12 @@
     }, 
     "H001051": {
         "example_state": "NY", 
-        "example_address": "131 Main Street", 
+        "example_address": "198 North Washington Street", 
         "name": "Richard Hanna", 
-        "example_city": "Oneida", 
+        "example_city": "Rome", 
         "example_district": "22", 
         "type": "Rep", 
-        "zip5": "13421", 
+        "zip5": "13440", 
         "zip4": "1641"
     }, 
     "H001052": {
