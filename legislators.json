@@ -5412,12 +5412,12 @@
     }, 
     "Z000018": {
         "example_state": "MT", 
-        "example_address": "2603 Wheat Drive", 
+        "example_address": "222 N 32nd ST STE", 
         "name": "Ryan Zinke", 
-        "example_city": "Bozeman", 
+        "example_city": "Billings", 
         "example_district": "0", 
         "type": "Rep", 
-        "zip5": "56750", 
-        "zip4": "4800"
+        "zip5": "59101", 
+        "zip4": "1974"
     }
 }
